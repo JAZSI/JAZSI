@@ -15,7 +15,7 @@
     </div>
     <li> <b>Loves:</b> Video games, Anime </li>
     <li> <b>Hobbies:</b> Origami, Papercrafts, Sports, Coding </li>
-    <li> <b>Games:</b> Overwatch, League of Legends, Genshin Impact, Honkai Impact, Minecraft, Tekken 7 </li>
+    <li> <b>Games:</b> Overwatch, League of Legends, Genshin Impact, Honkai Impact, Minecraft, Tekken </li>
     <li> <b>Sports:</b> Basketball, Volleyball, Table tennis, Badminton, Squash
     <li> <b>Location:</b> Philippines :philippines:</li>
     <br>
