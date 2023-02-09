@@ -1,4 +1,4 @@
-<h1 align="center"> JAZSI </h1>
+<h1 align="center"> JAZSI (Jaszi) </h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+World!!!" alt="Typing SVG" /></a>
 
@@ -9,8 +9,8 @@
         <img src="images/elaina1.gif" align="right" height="150">
     </div>
     <li> <b>Loves:</b> Video games, Anime </li>
-    <li> <b>Hobbies:</b> Origami, Papercrafts, Sports, Learning how to code </li>
-    <li> <b>Games:</b> Overwatch, League of Legends, Gemshin Impact, Minecraft, Tekken 7 </li>
+    <li> <b>Hobbies:</b> Origami, Papercrafts, Sports, Coding </li>
+    <li> <b>Games:</b> Overwatch, League of Legends, Genshin Impact, Honkai Impact, Minecraft, Tekken 7 </li>
     <li> <b>Sports:</b> Basketball, Volleyball, Table tennis, Badminton, Squash
     <li> <b>Location:</b> Philippines :philippines:</li>
     <br>
