@@ -49,7 +49,7 @@
 <div align="center">
     <h2> Stats </h2>
     <p><a href="https://holopin.io/@jaszi"><img src="https://holopin.me/jaszi" alt="An image of @jaszi&#39;s Holopin badges, which is a link to view their full Holopin profile"></a></p>
-    <p><a href="https://github.com/JAZSI"><img src="https://github-readme-stats.vercel.app/api?username=JAZSI&hide=prs,issues,contribs&show_icons=true&theme=radical" alt="Jaszi&#39;s GitHub stats"></a></p>
+    <p><a href="https://github.com/JAZSI"><img src="https://github-readme-stats.vercel.app/api?username=JAZSI&hide=prs,issues,contribs&show_icons=true&theme=radical&count_private=true" alt="Jaszi&#39;s GitHub stats"></a></p>
 </div>
 
 <div align="center">
