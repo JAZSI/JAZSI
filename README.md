@@ -54,7 +54,7 @@
 
 <div align="center">
     <h2> Socials </h2>
-    <img src="https://img.shields.io/badge/Jaszi-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Jaszi.8829-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     <img src="https://img.shields.io/badge/Jaszi__ow-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
     <img src="https://img.shields.io/badge/JASZI.11272-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net">
     <img src="https://img.shields.io/badge/JASZII.JASZI-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot">
