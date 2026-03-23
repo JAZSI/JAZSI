@@ -9,7 +9,7 @@
 <div>
     <div align="center">
         <h2> About me </h2>
-        <p> Hi! I'm Jaszi. I am currently a high school student learning how to code.</p>
+        <p> Hi! I'm Jaszi. I am Full-stack developer specializing in modern web technologies, software application, and mobile development.</p>
         <img src="images/1.gif" align="right" width="118" height="auto">
     </div>
     <li> <b>Loves:</b> Video games, Anime, Manga </li>
