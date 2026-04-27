@@ -1,78 +1,83 @@
-<h1 align="center"> JAZSI (Jaszi) </h1>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="52%" valign="top">
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+World!!!" alt="Typing SVG" />
-    </a>
-</div>
+### JAZSI
+**John Christian R. Senoto**
 
-<div>
-    <div align="center">
-        <h2> About me </h2>
-        <p> Hi! I'm Jaszi. I am Full-stack developer specializing in modern web technologies, software application, and mobile development.</p>
-        <img src="images/1.gif" align="right" width="118" height="auto">
-    </div>
-    <li> <b>Loves:</b> Video games, Anime, Manga </li>
-    <li> <b>Hobbies:</b> Origami, Papercrafts, Sports, Programming, Gaming </li>
-    <li> <b>Games:</b> Overwatch, League of Legends, Genshin Impact, Honkai Impact, Minecraft, Tekken </li>
-    <li> <b>Sports:</b> Basketball, Volleyball, Table tennis, Badminton, Squash
-    <li> <b>Location:</b> Philippines :philippines:</li>
-    <br>
-    <br>
-</div>
+![Active](https://img.shields.io/badge/●_Active-3fb950?style=flat-square&logoColor=white)
+![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-238636?style=flat-square&logoColor=white)
 
-<div align="center">
-    <h2> Knowledge </h2>
-    <div>
-        <img src="images/2.gif" align="left" width="160" height="auto">
-        <b>I have experience in:</b>
-        <br>
-        <br>
-        <img src="https://img.shields.io/badge/scss-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-        <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactjs">
-        <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-        <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm">
-        <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-        <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-        <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/glitch-3333FF.svg?style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch">
-        <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-    </div>
-    <br>
-    <br>
-</div>
+```
+Location   Philippines · UTC+08:00
+Contact    jchristiansenoto@gmail.com
+Phone      +63 976 601 6035
+Degree     BS CS — ML Specialization
+School     National University Dasmariñas
+Period     2025 — Present
+```
 
-<div align="center">
-    <h2> Socials </h2>
-    <img src="https://img.shields.io/badge/jaszi__owo-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    <img src="https://img.shields.io/badge/Jaszi__ow-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
-    <img src="https://img.shields.io/badge/jasziowo-121011.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-    <img src="https://img.shields.io/badge/jasziowo-00AEFF.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    <br>
-    <br>
-    <img src="images/3.gif">
-    <br>
-    <br>
-</div>
+**Also find me at**
 
-<!--
-**JAZSI/JAZSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Portfolio](https://img.shields.io/badge/Portfolio-jazzi.github.io-58a6ff?style=flat-square)](https://jazzi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--christian--senoto-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-christian-senoto)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Jaszii-ffd21e?style=flat-square)](https://huggingface.co/Jaszii)
+[![itch.io](https://img.shields.io/badge/itch.io-jaszi-fa5c5c?style=flat-square&logo=itch.io&logoColor=white)](https://jaszi.itch.io/)
+[![Replit](https://img.shields.io/badge/Replit-@JAZSI-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@JAZSI)
 
-Here are some ideas to get you started:
+</td>
+<td width="4%"></td>
+<td width="44%" valign="top">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670a0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6da55f?style=flat-square&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-cc6699?style=flat-square&logo=sass&logoColor=white)
+
+**Featured Projects**
+
+| Project | Stack |
+|---|---|
+| [**PRINTPAL**](https://github.com/JAZSI) — Self-service printing kiosk | SQLite · Express.js · React.js · Bun.js |
+| [**PlanME**](https://github.com/JAZSI) — AI-driven personal planner | Expo · React Native · MongoDB |
+| [**KooPal**](https://github.com/JAZSI) — School collaboration platform | React · TypeScript · SCSS |
+| [**Elysia**](https://github.com/JAZSI) — Discord community bot | Discord.js · Node.js |
+
+</td>
+</tr>
+</table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="52%" valign="top">
+
+**Education**
+
+| | |
+|---|---|
+| BS Computer Science — ML Specialization | NU Dasmariñas · 2025 – Present |
+| STEM Senior High School · *With Honors* | NU Dasmariñas · 2023 – 2025 |
+
+**Languages** &nbsp; `English — Professional` &nbsp; `Tagalog — Native`
+
+</td>
+<td width="4%"></td>
+<td width="44%" valign="top">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAZSI&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAZSI&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&bg_color=0d1117)
+
+</td>
+</tr>
+</table>
