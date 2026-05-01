@@ -1,86 +1,174 @@
-<!-- <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d4820a&height=180&section=header&text=JAZSI&fontSize=72&fontColor=f0e8c0&fontAlignY=38&desc=John%20Christian%20R.%20Senoto&descSize=18&descAlignY=58&descColor=d6cda8" width="100%"/>
+
+<!-- STATUS BADGES -->
+[![Status](https://img.shields.io/badge/Status-Active-5a9e4a?style=flat-square&logo=statuspage&logoColor=white)](https://jazzi.github.io/)
+[![Location](https://img.shields.io/badge/Philippines-UTC+08:00-d4820a?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/JAZSI)
+[![Email](https://img.shields.io/badge/jchristiansenoto@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jchristiansenoto@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jazsi.github.io-c8a84b?style=flat-square&logo=githubpages&logoColor=white)](https://jazsi.github.io/)
+![Visitors](https://komarev.com/ghpvc/?username=JAZSI)
+
+</div>
+
+---
+
+## 👾 `> whoami`
+
+```bash
+jazsi@github:~$ whoami
+
+> CALLSIGN : JAZSI
+> ROLE     : Full-Stack Developer
+> FOCUS    : Web | Mobile | Machine Learning
+> SCHOOL   : NU Dasmariñas (BSCS - ML track)
+> STATUS   : ACTIVE
+
+jazsi@github:~$ cat about.txt
+
+Full-stack developer building across web, mobile, and emerging platforms.
+Shipped 25+ projects including production apps, automation tools, and hardware integrations.
+
+Currently pursuing BS Computer Science (Machine Learning) at National University Dasmariñas.
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🗣️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### 🤖 ML / AI
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Python](https://img.shields.io/badge/OpenCV-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![GDevelop](https://img.shields.io/badge/GDevelop-4F4CF1?style=for-the-badge&logo=gdevelop&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%">
 
-### JAZSI
-**John Christian R. Senoto**
+### 🖨️ PRINTPAL
+> Self-Service Printing System
 
-![Active](https://img.shields.io/badge/●_Active-3fb950?style=flat-square&logoColor=white)
-![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-238636?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-```
-Location   Philippines · UTC+08:00
-Contact    jchristiansenoto@gmail.com
-Phone      +63 976 601 6035
-Degree     BS CS — ML Specialization
-School     National University Dasmariñas
-Period     2025 — Present
-```
-
-**Also find me at**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-jazzi.github.io-58a6ff?style=flat-square)](https://jazzi.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--christian--senoto-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-christian-senoto)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Jaszii-ffd21e?style=flat-square)](https://huggingface.co/Jaszii)
-[![itch.io](https://img.shields.io/badge/itch.io-jaszi-fa5c5c?style=flat-square&logo=itch.io&logoColor=white)](https://jaszi.itch.io/)
-[![Replit](https://img.shields.io/badge/Replit-@JAZSI-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@JAZSI)
+Full-stack kiosk system with touch-screen UI, secure payment processing, and local storage for **campus-wide deployment** at NU Dasmariñas. Features real-time job queuing and status monitoring.
 
 </td>
-<td width="4%"></td>
-<td width="44%" valign="top">
+<td width="50%">
 
-**Stack**
+### 📅 PLANME
+> AI-Driven Personal Planner
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670a0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6da55f?style=flat-square&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003b57?style=flat-square&logo=sqlite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-cc6699?style=flat-square&logo=sass&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo)
+![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Featured Projects**
+Mobile app with **intelligent task prioritization**, reminders, and habit tracking — designed to optimize daily productivity through AI-assisted planning.
 
-| Project | Stack |
-|---|---|
-| [**PRINTPAL**](https://github.com/JAZSI) — Self-service printing kiosk | SQLite · Express.js · React.js · Bun.js |
-| [**PlanME**](https://github.com/JAZSI) — AI-driven personal planner | Expo · React Native · MongoDB |
-| [**KooPal**](https://github.com/JAZSI) — School collaboration platform | React · TypeScript · SCSS |
-| [**Elysia**](https://github.com/JAZSI) — Discord community bot | Discord.js · Node.js |
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏫 KOOPAL
+> School Collaboration Platform
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+Responsive web platform for **NU Dasmariñas tech organization** to publish and showcase student innovations and collaborative projects.
+
+</td>
+<td width="50%">
+
+### 🤖 ELYSIA
+> Discord Community Bot
+
+![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+Advanced bot featuring moderation tooling, custom commands, third-party API integrations, and **music streaming** for community servers.
 
 </td>
 </tr>
 </table>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="52%" valign="top">
+---
 
-**Education**
+## 📊 GitHub Stats
 
-| | |
-|---|---|
-| BS Computer Science — ML Specialization | NU Dasmariñas · 2025 – Present |
-| STEM Senior High School · *With Honors* | NU Dasmariñas · 2023 – 2025 |
+<div align="center">
 
-**Languages** &nbsp; `English — Professional` &nbsp; `Tagalog — Native`
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JAZSI&theme=tokyo-night)
+![Trophies](https://github-profile-trophy.vercel.app/?username=JAZSI&theme=onedark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAZSI&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=JAZSI&theme=gruvbox&hide_border=true&background=0b0c09&ring=d4820a&fire=c8a84b&currStreakLabel=d6cda8&sideLabels=d6cda8&dates=7a7460)
+  
+</div>
 
-</td>
-<td width="4%"></td>
-<td width="44%" valign="top">
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAZSI&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117)
+## 🔗 Find Me Online
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAZSI&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&bg_color=0d1117)
+<div align="center">
 
-</td>
-</tr>
-</table> -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-jazsi.github.io-c8a84b?style=for-the-badge&logo=githubpages&logoColor=white)](https://jazsi.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-JAZSI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JAZSI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--christian--senoto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-christian-senoto)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Jaszii-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Jaszii)
+[![itch.io](https://img.shields.io/badge/itch.io-jaszi-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jaszi.itch.io/)
 
+</div>
 
-![readme](./readme.png)
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d4820a&height=100&section=footer" width="100%"/>
+
+*`JAZSI/JAZSI · Philippines · UTC+08:00`*
+
+</div>
