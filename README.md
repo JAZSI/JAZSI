@@ -82,7 +82,7 @@ Currently pursuing BS Computer Science (Machine Learning) at National University
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JAZSI&theme=tokyo-night)
-![Trophies](https://github-profile-trophy.vercel.app/?username=JAZSI&theme=onedark)
+![Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=JAZSI&theme=onedark)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAZSI&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=JAZSI&theme=gruvbox&hide_border=true&background=0b0c09&ring=d4820a&fire=c8a84b&currStreakLabel=d6cda8&sideLabels=d6cda8&dates=7a7460)
   
